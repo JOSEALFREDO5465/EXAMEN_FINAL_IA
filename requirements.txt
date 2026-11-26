@@ -1,0 +1,3 @@
+# Agente Inteligente SEGIP Bolivia
+# No requiere dependencias externas - solo Python estándar
+# Requiere Python 3.7 o superior
